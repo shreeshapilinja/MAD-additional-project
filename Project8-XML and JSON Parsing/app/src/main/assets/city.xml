@@ -1,0 +1,16 @@
+<record>
+    <place>
+        <city>Mysore</city>
+        <lat>75.55</lat>
+        <long>76.639</long>
+        <temp>22</temp>
+        <hum>90</hum>
+    </place>
+    <place>
+        <city>puttur</city>
+        <lat>12.2</lat>
+        <long>16.539</long>
+        <temp>25</temp>
+        <hum>70</hum>
+    </place>
+</record>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project3</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="heading">COUNTER APPLICATION</string>
+    <string name="count">COUNT</string>
+</resources>
